@@ -10,3 +10,4 @@ right now.</b></p>
 <p><span style='font-size:100px;'>&#8226;<a href="https://projects.zemenu.tech/">Zoble,</a> Steel factory.</p> </span>
 <h3>Games</h3>
 <p><span style='font-size:100px;'>&#8226;<a href="https://drive.google.com/file/d/1YpMxs2wA9oPGuzh3enqI5DXlpeGtraym/view?usp=sharing">Tejo,</a> This game is called tejo which is ethiopian traditional drink, this game was made in 48 hours.</p> </span>
+![](images/GojoBet.jpg)
